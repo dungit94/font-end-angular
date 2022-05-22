@@ -1,0 +1,29 @@
+.lang-select {
+    height: 40px;
+}
+.nav-bar {
+    background-color: rgb(255, 0, 0, 0);
+}
+.sign-in {
+    height: 40px;
+    min-width: 100px;
+}
+.nav-image {
+    min-height: 600px;
+    height: 600px;
+}
+.menu-banner {
+    min-height: 600px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+}
+.container-fluid {
+    position: absolute;
+    z-index: 3;
+    top: 10px;
+}
+.containt{
+    position: relative;
+}

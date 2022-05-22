@@ -1,0 +1,13 @@
+.menu-left{
+    background-color: aquamarine;
+    min-width: 100px;
+    min-height: 500px;
+    width: 20%;
+}
+
+.nav-bar-right {
+    background-color: beige;
+    min-width: 100px;
+    min-height: 500px;
+    width: 80%;
+}
